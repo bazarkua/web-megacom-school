@@ -1,0 +1,46 @@
+
+
+.container{
+     border-radius: 15px;
+ }
+.form-control{
+    border-radius: 15px;
+    font-size: 19px;
+}
+.btn-back {
+    border-radius: 14px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    width: 37px;
+    transition: all 0.5s;
+    cursor: pointer;
+  }
+  .btn-back:hover{
+    padding-right: 89px;
+    padding-left:4px;
+  }
+  .btn-back{
+      margin-left: 40px;
+  }
+
+.btn{
+    font-weight: 700;
+    color: rgb(2, 2, 2);
+    overflow: hidden;
+}
+.btn{
+    
+    background: linear-gradient(to right, rgb(9, 174, 240), rgb(99, 95, 95) 50%, rgb(153, 147, 147) 50%);
+}
+.btn{
+    background-clip: text;
+    background-size: 200% 200%;
+    background-position: 100%;
+}
+.btn{
+    transition: background-position 275ms ease;
+}
+.btn:hover{
+    background-position: 0 100%;
+}

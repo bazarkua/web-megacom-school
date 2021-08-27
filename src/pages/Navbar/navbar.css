@@ -1,0 +1,46 @@
+.btnN{
+    font-weight: 600;
+    color: rgb(177, 174, 174);
+    overflow: hidden;
+    border: none;
+}
+.btnN{
+    
+    background: linear-gradient(to right, rgb(6, 173, 240), rgb(223, 249, 255) 50%, rgb(148, 148, 148) 50%);
+}
+.btnN{
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 200%;
+    background-position: 100%;
+}
+.btnN{
+    transition: background-position 275ms ease;
+}
+.btnN:hover{
+    background-position: 0 100%;
+}
+
+.btn{
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    overflow: hidden;
+}
+.btn{
+    
+    background: linear-gradient(to right, rgb(9, 174, 240), rgb(99, 95, 95) 50%, rgb(3, 3, 3) 50%);
+}
+.btn{
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 200%;
+    background-position: 100%;
+}
+.btn{
+    transition: background-position 275ms ease;
+}
+.btn:hover{
+    background-position: 0 100%;
+}

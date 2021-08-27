@@ -1,0 +1,67 @@
+.admins{
+    margin-bottom: 80px;
+}
+
+.container{
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.grey-box{
+    background-color: rgba(202, 202, 202, 0.966);
+    border-radius: 25px;
+}
+
+.grey-box{
+    margin: 15px;
+    padding: 15px;
+}
+
+.btn{
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    overflow: hidden;
+}
+.btn{
+    
+    background: linear-gradient(to right, rgb(9, 174, 240), rgb(99, 95, 95) 50%, rgb(3, 3, 3) 50%);
+}
+.btn{
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 200%;
+    background-position: 100%;
+}
+.btn{
+    transition: background-position 275ms ease;
+}
+.btn:hover{
+    background-position: 0 100%;
+}
+@media screen and (max-width: 800px) {
+     .container{
+      font-size: 12px !important;
+    }
+}
+@media screen and (max-width: 800px) {
+    .container{
+     font-size: 12px !important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .container{
+     font-size: 10px !important;
+    }
+}
+@media screen and (max-width: 450px) {
+    .container{
+    font-size: 8px !important;
+    }
+}
+@media screen and (max-width: 440px) {
+    .container{
+    font-size: 5px !important;
+    }
+}
+

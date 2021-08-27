@@ -1,0 +1,33 @@
+.container{
+    border-radius: 15px;
+}
+.form-control{
+   border-radius: 15px;
+   font-size: 19px;
+}
+
+@media screen and (max-width: 800px) {
+     .container{
+      font-size: 12px !important;
+    }
+}
+@media screen and (max-width: 800px) {
+    .container{
+     font-size: 12px !important;
+    }
+}
+@media screen and (max-width: 600px) {
+    .container{
+     font-size: 10px !important;
+    }
+}
+@media screen and (max-width: 450px) {
+    .container{
+    font-size: 8px !important;
+    }
+}
+@media screen and (max-width: 440px) {
+    .container{
+    font-size: 5px !important;
+    }
+}

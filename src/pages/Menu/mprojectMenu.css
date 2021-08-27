@@ -1,0 +1,52 @@
+
+  .a{
+    position: relative;
+    display: inline-block;
+    font-size: 2em;
+    font-weight: 800;
+    color: rgb(253, 253, 253);
+    overflow: hidden;
+  }
+
+  .a{
+    
+    background: linear-gradient(to right, rgb(192, 192, 192), rgb(0, 183, 255) 50%, rgb(19, 20, 20) 50%);
+  }
+  .a{
+    
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+  }
+  .a{
+    transition: background-position 275ms ease;
+  }
+  .a:hover {
+    background-position: 0 100%;
+  }
+
+  @media screen and (max-width: 800px) {
+     .rowAda .a{
+      font-size: 18px !important;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .rowAda .a{
+     font-size: 13px !important;
+   }
+ }
+ @media screen and (max-width: 450px) {
+  .rowAda .a{
+   font-size: 13px !important;
+ }
+}
+@media screen and (max-width: 440px) {
+  .rowAda .a{
+   font-size: 10px !important;
+ }
+}
+
+
+

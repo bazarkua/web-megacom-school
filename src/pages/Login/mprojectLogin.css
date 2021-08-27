@@ -1,0 +1,61 @@
+
+
+.container1{
+    color:black;
+    margin: auto;
+    width: 450px;
+}
+
+.login{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.row-log{
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: white;
+}
+.btn{
+    width: auto;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 500px) {
+    .container{
+     font-size: 18px !important;
+    }
+}
+@media screen and (max-width: 430px) {
+    .container{
+     font-size: 16px !important;
+    }
+}
+@media screen and (max-width: 410px) {
+    .container{
+    font-size: 14px !important;
+    }
+}
+@media screen and (max-width: 400px) {
+    .container{
+    font-size: 12px !important;
+    }
+}
+@media screen and (max-width: 330px)
+{
+    .btn{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 269px)
+{
+    .btn{
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 223px)
+{
+    .btn{
+        font-size: 5px;
+    }
+}
